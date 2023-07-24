@@ -22,7 +22,7 @@ To use the TODO-LIST app locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/TODO-LIST.git
+git clone https://github.com/NobleOsinachi/TODO-LIST.git
 ```
 
 2. Change into the project directory:
